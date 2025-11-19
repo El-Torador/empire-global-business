@@ -6,6 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
+id_rsa_empire
+*.pub
 
 # Firebase cache
 .firebase/
